@@ -1,0 +1,8 @@
+.idea/
+/backend/var/cache/
+/backend/var/logs/
+/backend/var/sessions/
+/backend/var/bootstrap.php.cache
+/backend/app/config/parameters.yml
+/backend/vendor
+/performance_docker/maria/data/
